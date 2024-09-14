@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amuingul.github.io/sitemap.html.gz
+Sitemap: https://amuingul.github.io/app/sitemap.html.gz
+Sitemap: https://amuingul.github.io/assets/sitemap.html.gz
+Sitemap: https://amuingul.github.io/css/sitemap.html.gz
+Sitemap: https://amuingul.github.io/includes/sitemap.html.gz
+Sitemap: https://amuingul.github.io/item/sitemap.html.gz
+Sitemap: https://amuingul.github.io/src/sitemap.html.gz
